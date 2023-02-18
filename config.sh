@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Device
 export FOX_BRANCH="fox_12.1"
 export DT_LINK="https://github.com/admin-elvistrujanovic/android_device_xiaomi_lisa_orangefox_a13_test.git -b fox_12.1"
